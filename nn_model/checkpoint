@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/jupyter/kaggle_days_sf_comp/nn_model/model_weights"
+all_model_checkpoint_paths: "results/_run_1/model/model_weights"
+all_model_checkpoint_paths: "results/_run_1/model/model_weights_progress"
+all_model_checkpoint_paths: "/home/jupyter/kaggle_days_sf_comp/nn_model/model_weights"
